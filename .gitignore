@@ -111,3 +111,7 @@ CRMGraphQL/node_modules
 CRMGraphQL/.idea
 CRMGraphQL/package-lock.json
 código final
+crmcliente/.next
+crmcliente/node_modules
+crmcliente/yarn.lock
+crmcliente/package-lock.json
