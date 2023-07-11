@@ -115,3 +115,4 @@ crmcliente/.next
 crmcliente/node_modules
 crmcliente/yarn.lock
 crmcliente/package-lock.json
+CRMGraphQL/config/.env
